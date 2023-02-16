@@ -14,3 +14,10 @@ Skills used:
 - Creating Views
 
 [View MYSQL Queires](https://github.com/Scombes/Fuzzy_Maven_Factory/blob/main/maven_fuzzy_factory.sql)
+
+## Tableau Visualization:
+To facilitate communication of the findings, an interactive Tableau dashboard was created to provide easily understandable visualizations of the data.
+
+Link to the Tableau Dashboard: [View Tableau Dashboard](https://public.tableau.com/app/profile/scott.combes/viz/WebsiteSalesAnalytics/WebsiteAnalytics)
+
+
