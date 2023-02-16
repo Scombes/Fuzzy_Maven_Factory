@@ -13,4 +13,4 @@ Skills used:
 - Aggregate Functions
 - Creating Views
 
-[View MYSQL Queires]()
+[View MYSQL Queires](https://github.com/Scombes/Fuzzy_Maven_Factory/blob/main/maven_fuzzy_factory.sql)
